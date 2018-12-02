@@ -1,0 +1,9 @@
+.pie {
+    margin: 20px;
+  }
+  
+  .pie text{
+    font-size: 3em;
+    font-family: "Verdana";
+    fill: #888;
+  }
